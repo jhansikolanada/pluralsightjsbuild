@@ -1,0 +1,2 @@
+# pluralsightjsbuild
+javascript development environmet
